@@ -7,6 +7,7 @@ int main(void)
 	printf("Difference=%d\n",a-b);
 	printf("Product=%d\n",a*b);
 	printf("Quotient=%d\n",a/b);
-	printf("Remainder=%d\n",a%b);	
+	printf("Remainder=%d\n",a%b);
+	printf("for git");	
 	return 0;
 }
