@@ -1,4 +1,4 @@
-/*P7.1 Program to find the factorial of a number by recursive method*/
+/*P7.1 Program to find the factorial of a number by recursive method Modified the script*/
 #include<stdio.h>
 long int fact(int n);
 long int Ifact(int n);
